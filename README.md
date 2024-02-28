@@ -2,8 +2,13 @@
 This is an athletics track dataset, termed as Multi-data for Athletics Track (MAT), specifically tailored for multi-task detection.
 
 # detail
-or more details of the dataset, please refer to the paper:Vision-based Wearable Steering Assistance for People with Impaired Vision in Jogging
+MAT is a dataset proposed in ICRA2024 paper "Vision-based Wearable Steering Assistance for People with Impaired Vision in Jogging".
+It is an athletics track dataset, specifically tailored for multi-task detection, including:
 
+
+
+# Examples of dataset annotations
+11
 # Terms & Conditions
 MAT database is available for non-commercial research purposes only.
 You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for commercial purposes, any portion of the clips, and any derived data.
