@@ -20,4 +20,5 @@ Permission to use but not reproduce or distribute the MAT database is granted to
 
 # Citation
 Please cite our paper if you find our work useful for your research:
+
 For more details of the dataset, please refer to the paper: Vision-based Wearable Steering Assistance for People with Impaired Vision in Jogging
