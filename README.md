@@ -5,9 +5,8 @@ This is an athletics track dataset, termed as Multi-data for Athletics Track (MA
 MAT is a dataset proposed in ICRA2024 paper "Vision-based Wearable Steering Assistance for People with Impaired Vision in Jogging".
 It is an athletics track dataset, specifically tailored for multi-task detection, including:
 
-- [Heading One]
-- [Heading Two]
 - 1000 images.
+- three kinds of annotations: (1) detection bounding boxes of people; (2) track line masks.
 
 
 
