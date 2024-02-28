@@ -8,7 +8,7 @@ It is an athletics track dataset, specifically tailored for multi-task detection
 
 
 # Examples of dataset annotations
-![image](example.png)
+![image]([example.png](https://github.com/snoopy-l/MAT/blob/main/examples.png))
 
 # Terms & Conditions
 MAT database is available for non-commercial research purposes only.
