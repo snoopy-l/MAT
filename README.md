@@ -6,7 +6,7 @@ MAT is a dataset proposed in ICRA2024 paper "Vision-based Wearable Steering Assi
 It is an athletics track dataset, specifically tailored for multi-task detection, including:
 
 - 1000 images.
-- three kinds of annotations: (1) detection bounding boxes of people; (2) track line masks.
+- two kinds of annotations: (1) detection bounding boxes of people; (2) track line masks.
 
 
 
@@ -15,7 +15,9 @@ It is an athletics track dataset, specifically tailored for multi-task detection
 
 # Terms & Conditions
 MAT database is available for non-commercial research purposes only.
+
 You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for commercial purposes, any portion of the clips, and any derived data.
+
 You agree not to further copy, publish, or distribute any portion of the MAFW database. Except for internal use at a single site within the same organization, it is allowed to make copies of the dataset.
 
 # How to get the MAFW Dataset
