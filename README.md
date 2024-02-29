@@ -20,6 +20,7 @@ You agree not to further copy, publish, or distribute any portion of the MAFW da
 
 # How to get the MAFW Dataset
 This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
+
 Permission to use but not reproduce or distribute the MAT database is granted to all researchers, if you need to use it, please send the requirements and purpose of use to email (liuxiaotong@mail.ustc.edu.cn).
 
 # Citation
