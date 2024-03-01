@@ -20,7 +20,7 @@ You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for 
 
 You agree not to further copy, publish, or distribute any portion of the MAT database. Except for internal use at a single site within the same organization, it is allowed to make copies of the dataset.
 
-# How to get the MAFW Dataset
+# How to get the MAT Dataset
 This database is publicly available. It is free for professors and researcher scientists affiliated to a University.
 
 Permission to use but not reproduce or distribute the MAT database is granted to all researchers, if you need to use it, please send the requirements and purpose of use to email (liuxiaotong@mail.ustc.edu.cn).
